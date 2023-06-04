@@ -1,0 +1,19 @@
+.landing-container {
+    padding: 120px 0;
+}
+
+.landing-container form {
+   max-width: 600px;
+   margin: 0 auto;
+}
+
+body, html { 
+    height: 100%;
+}
+
+body { 
+    background: linear-gradient(rgba(3, 241, 3, 0.338), rgba(36, 2, 146, 0.438)),
+    url("../images/conf.jpeg")no-repeat center center fixed;
+    background-size: cover;
+
+}
